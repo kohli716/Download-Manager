@@ -1,0 +1,36 @@
+# Ignore executables
+FileDownloader
+
+# Ignore all .mp4 files
+*.mp4
+
+# Ignore all .jpg files
+*.jpg
+
+# Ignore all .pdf files
+*.pdf
+
+# Ignore large text files
+*.txt
+
+# Ignore build and output directories or files
+build/
+output/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+*.code-workspace
+*.sln
+
+# Logs
+*.log
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
